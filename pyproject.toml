@@ -7,7 +7,7 @@ name = "llama-cpp-agent"
 version = "0.2.3"
 description = "A framework for building LLM based AI agents with llama.cpp."
 
-readme = "ReadMe.md"
+readme = "README.md"
 dependencies = [
     "llama-cpp-python>=0.2.60",
     "pydantic>=2.5.3",
